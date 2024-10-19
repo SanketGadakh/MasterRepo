@@ -22,6 +22,7 @@ public class Testng {
 	//The method under BeforeClass annotation will execute before the class.
 	public void beforeclass() {
 		System.out.println("Before class ");
+		
 
 	}
 	

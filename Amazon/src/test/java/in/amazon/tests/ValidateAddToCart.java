@@ -95,7 +95,7 @@ public class ValidateAddToCart {
 		Assert.assertEquals(actualProductName, expectedProductName);
 		Assert.assertEquals(actualprice, expectedprice);
 		
-
+System.out.println("Validation Successfull");
 	}
 
 	@AfterMethod
